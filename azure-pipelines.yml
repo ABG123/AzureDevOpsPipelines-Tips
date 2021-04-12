@@ -1,14 +1,14 @@
-# trigger:
-# - master
+trigger:
+ - master
 
 pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: Visual Studio Enterprise(17b12858-3960-4e6f-a663-a06fdae23428)
-  resourceGroup: resourcegroup-tfstate
-  storageAccount: terraformtfstateskip
-  container: tfstate
+  subscription: aa9c0c8d-0de8-481c-9c7f-16b8224f6152
+  resourceGroup: newgrp1
+  storageAccount: testkvtfterraformtfstateskip
+  container: tf-kv
   tfstateFile: terraform.tfstate
   anyTfChanges: false
 
