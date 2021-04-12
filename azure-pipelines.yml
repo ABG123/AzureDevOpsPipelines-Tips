@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: aa9c0c8d-0de8-481c-9c7f-16b8224f6152
+  subscription: srijanijeon0817-Test123-aa9c0c8d-0de8-481c-9c7f-16b8224f6152
   resourceGroup: newgrp1
   storageAccount: testkvtfterraformtfstateskip
   container: tf-kv
