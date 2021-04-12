@@ -3,5 +3,5 @@ arm_principal = "3c6d022f-22b7-4072-9b50-3aedaf4fdf7f" #"3d2ab32d-7b83-4eff-b962
 arm_password = "sMNfiEisviRgKUQ5qifq3J/OPiRcTusJhnkntiR1ZhY="
 tenant_id = "5eac8763-19ad-4fce-b35a-afb582d45cc0"
 
-kv-rg = "newgrp1"
+kv-rg = "newgrp12"
 kv1 = "example-kv1234"
