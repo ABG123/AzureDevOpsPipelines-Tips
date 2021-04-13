@@ -6,8 +6,8 @@ pool:
 
 variables:
   subscription: Azure Dev
-  resourceGroup: newgrp1
-  storageAccount: testkvtfterraformtfstateskip
+  resourceGroup: newgrp123
+  storageAccount: testkvtf
   container: tf-kv
   tfstateFile: terraform.tfstate
   anyTfChanges: false
